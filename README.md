@@ -1,2 +1,1 @@
-# GFG_JBDL_23_Assingments
-GFG_JBDL_23_Assingments
+## This repository contains assignments given in GFG JBDL-23
